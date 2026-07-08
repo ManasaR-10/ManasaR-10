@@ -1,10 +1,6 @@
 # 💫 About Me:
-Hi there, I'm Manasa R <br><br>I’m an MCA postgraduate student with a strong interest in building scalable web applications and
-clean user interfaces. I work on web development and AI/ML-based projects, exploring how
-intelligent models can be integrated into real-world applications. I enjoy learning by building
-projects and turning ideas into functional solutions.
-<br><br>💻 About Me<br><br>💼 Currently focused on full-stack web development through academic and personal projects, while also working on AI/ML-based applications.<br>🌱 Actively learning modern web technologies, backend architecture, authentication mechanisms, and machine learning concepts.
-<br>🚀 My goal is to grow as a full-stack developer and build reliable, user-centric web applications, integrating intelligent features where applicable.
+Hi there, I'm Manasa R <br><br>I’m an MCA postgraduate student with a strong interest in software development, specializing in **Python, Java, MERN Stack (MongoDB, Express.js, React.js, Node.js), and React**. I enjoy building scalable web applications with clean, user-friendly interfaces and developing efficient backend solutions. I also have experience working on AI/ML-based projects, exploring how intelligent models can be integrated into real-world applications. Passionate about continuous learning, I enjoy building practical projects, solving real-world problems, and continuously improving my technical skills.
+
 
 ## 🌐 Socials:
 
