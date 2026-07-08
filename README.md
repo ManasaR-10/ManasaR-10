@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Manasa R 👋<br><br>I’m an MCA postgraduate student with a strong interest in building scalable web applications and
+Hi there, I'm Manasa R <br><br>I’m an MCA postgraduate student with a strong interest in building scalable web applications and
 clean user interfaces. I work on web development and AI/ML-based projects, exploring how
 intelligent models can be integrated into real-world applications. I enjoy learning by building
 projects and turning ideas into functional solutions.
